@@ -1,0 +1,72 @@
+C:\Users\hasan\OneDrive\Masaüstü\milyonerOdevBitti\milyonerOdevBitti\bin\Debug\net7.0-windows\milyonerOdevBitti.exe
+C:\Users\hasan\OneDrive\Masaüstü\milyonerOdevBitti\milyonerOdevBitti\bin\Debug\net7.0-windows\milyonerOdevBitti.deps.json
+C:\Users\hasan\OneDrive\Masaüstü\milyonerOdevBitti\milyonerOdevBitti\bin\Debug\net7.0-windows\milyonerOdevBitti.runtimeconfig.json
+C:\Users\hasan\OneDrive\Masaüstü\milyonerOdevBitti\milyonerOdevBitti\bin\Debug\net7.0-windows\milyonerOdevBitti.dll
+C:\Users\hasan\OneDrive\Masaüstü\milyonerOdevBitti\milyonerOdevBitti\bin\Debug\net7.0-windows\milyonerOdevBitti.pdb
+C:\Users\hasan\OneDrive\Masaüstü\milyonerOdevBitti\milyonerOdevBitti\obj\Debug\net7.0-windows\milyonerOdevBitti.Form1.resources
+C:\Users\hasan\OneDrive\Masaüstü\milyonerOdevBitti\milyonerOdevBitti\obj\Debug\net7.0-windows\milyonerOdevBitti.Form2.resources
+C:\Users\hasan\OneDrive\Masaüstü\milyonerOdevBitti\milyonerOdevBitti\obj\Debug\net7.0-windows\milyonerOdevBitti.csproj.GenerateResource.cache
+C:\Users\hasan\OneDrive\Masaüstü\milyonerOdevBitti\milyonerOdevBitti\obj\Debug\net7.0-windows\milyonerOdevBitti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\OneDrive\Masaüstü\milyonerOdevBitti\milyonerOdevBitti\obj\Debug\net7.0-windows\milyonerOdevBitti.AssemblyInfoInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\milyonerOdevBitti\milyonerOdevBitti\obj\Debug\net7.0-windows\milyonerOdevBitti.AssemblyInfo.cs
+C:\Users\hasan\OneDrive\Masaüstü\milyonerOdevBitti\milyonerOdevBitti\obj\Debug\net7.0-windows\milyonerOdevBitti.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\milyonerOdevBitti\milyonerOdevBitti\obj\Debug\net7.0-windows\milyonerOdevBitti.dll
+C:\Users\hasan\OneDrive\Masaüstü\milyonerOdevBitti\milyonerOdevBitti\obj\Debug\net7.0-windows\refint\milyonerOdevBitti.dll
+C:\Users\hasan\OneDrive\Masaüstü\milyonerOdevBitti\milyonerOdevBitti\obj\Debug\net7.0-windows\milyonerOdevBitti.pdb
+C:\Users\hasan\OneDrive\Masaüstü\milyonerOdevBitti\milyonerOdevBitti\obj\Debug\net7.0-windows\milyonerOdevBitti.genruntimeconfig.cache
+C:\Users\hasan\OneDrive\Masaüstü\milyonerOdevBitti\milyonerOdevBitti\obj\Debug\net7.0-windows\ref\milyonerOdevBitti.dll
+C:\Users\hasan\OneDrive\Masaüstü\milyonerOdevBitti\milyonerOdevBitti\obj\Debug\net7.0-windows\milyonerOdevBitti.kaybetti.resources
+C:\Users\hasan\OneDrive\Masaüstü\milyonerOdevBitti\milyonerOdevBitti\obj\Debug\net7.0-windows\milyonerOdevBitti.Properties.Resources.resources
+C:\Users\hasan\OneDrive\Masaüstü\milyonerOdevBitti\milyonerOdevBitti\obj\Debug\net7.0-windows\milyonerOdevBitti.dolanSure.resources
+C:\Users\hasan\OneDrive\Masaüstü\milyonerOdevBitti\milyonerOdevBitti\obj\Debug\net7.0-windows\milyonerOdevBitti.telJoker.resources
+C:\Users\hasan\OneDrive\Masaüstü\milyonerOdevBitti\milyonerOdevBitti\obj\Debug\net7.0-windows\milyonerOdevBitti.Form3.resources
+C:\Users\hasan\OneDrive\Masaüstü\milyonerOdevBitti\milyonerOdevBitti\obj\Debug\net7.0-windows\milyonerOdevBitti.kazandın.resources
+C:\Users\hasan\OneDrive\Masaüstü\milyonerOdevBitti\milyonerOdevBitti\obj\Debug\net7.0-windows\milyonerOdevBitti.Resource1.resources
+D:\milyonerOdevBitti\milyonerOdevBitti\bin\Debug\net7.0-windows\milyonerOdevBitti.exe
+D:\milyonerOdevBitti\milyonerOdevBitti\bin\Debug\net7.0-windows\milyonerOdevBitti.deps.json
+D:\milyonerOdevBitti\milyonerOdevBitti\bin\Debug\net7.0-windows\milyonerOdevBitti.runtimeconfig.json
+D:\milyonerOdevBitti\milyonerOdevBitti\bin\Debug\net7.0-windows\milyonerOdevBitti.dll
+D:\milyonerOdevBitti\milyonerOdevBitti\bin\Debug\net7.0-windows\milyonerOdevBitti.pdb
+D:\milyonerOdevBitti\milyonerOdevBitti\obj\Debug\net7.0-windows\milyonerOdevBitti.dolanSure.resources
+D:\milyonerOdevBitti\milyonerOdevBitti\obj\Debug\net7.0-windows\milyonerOdevBitti.Form1.resources
+D:\milyonerOdevBitti\milyonerOdevBitti\obj\Debug\net7.0-windows\milyonerOdevBitti.Form2.resources
+D:\milyonerOdevBitti\milyonerOdevBitti\obj\Debug\net7.0-windows\milyonerOdevBitti.Form3.resources
+D:\milyonerOdevBitti\milyonerOdevBitti\obj\Debug\net7.0-windows\milyonerOdevBitti.kaybetti.resources
+D:\milyonerOdevBitti\milyonerOdevBitti\obj\Debug\net7.0-windows\milyonerOdevBitti.kazandın.resources
+D:\milyonerOdevBitti\milyonerOdevBitti\obj\Debug\net7.0-windows\milyonerOdevBitti.Properties.Resources.resources
+D:\milyonerOdevBitti\milyonerOdevBitti\obj\Debug\net7.0-windows\milyonerOdevBitti.Resource1.resources
+D:\milyonerOdevBitti\milyonerOdevBitti\obj\Debug\net7.0-windows\milyonerOdevBitti.telJoker.resources
+D:\milyonerOdevBitti\milyonerOdevBitti\obj\Debug\net7.0-windows\milyonerOdevBitti.csproj.GenerateResource.cache
+D:\milyonerOdevBitti\milyonerOdevBitti\obj\Debug\net7.0-windows\milyonerOdevBitti.GeneratedMSBuildEditorConfig.editorconfig
+D:\milyonerOdevBitti\milyonerOdevBitti\obj\Debug\net7.0-windows\milyonerOdevBitti.AssemblyInfoInputs.cache
+D:\milyonerOdevBitti\milyonerOdevBitti\obj\Debug\net7.0-windows\milyonerOdevBitti.AssemblyInfo.cs
+D:\milyonerOdevBitti\milyonerOdevBitti\obj\Debug\net7.0-windows\milyonerOdevBitti.csproj.CoreCompileInputs.cache
+D:\milyonerOdevBitti\milyonerOdevBitti\obj\Debug\net7.0-windows\milyonerOdevBitti.dll
+D:\milyonerOdevBitti\milyonerOdevBitti\obj\Debug\net7.0-windows\refint\milyonerOdevBitti.dll
+D:\milyonerOdevBitti\milyonerOdevBitti\obj\Debug\net7.0-windows\milyonerOdevBitti.pdb
+D:\milyonerOdevBitti\milyonerOdevBitti\obj\Debug\net7.0-windows\milyonerOdevBitti.genruntimeconfig.cache
+D:\milyonerOdevBitti\milyonerOdevBitti\obj\Debug\net7.0-windows\ref\milyonerOdevBitti.dll
+F:\Yeni klasör\milyonerOdevBitti\milyonerOdevBitti\bin\Debug\net7.0-windows\milyonerOdevBitti.exe
+F:\Yeni klasör\milyonerOdevBitti\milyonerOdevBitti\bin\Debug\net7.0-windows\milyonerOdevBitti.deps.json
+F:\Yeni klasör\milyonerOdevBitti\milyonerOdevBitti\bin\Debug\net7.0-windows\milyonerOdevBitti.runtimeconfig.json
+F:\Yeni klasör\milyonerOdevBitti\milyonerOdevBitti\bin\Debug\net7.0-windows\milyonerOdevBitti.dll
+F:\Yeni klasör\milyonerOdevBitti\milyonerOdevBitti\bin\Debug\net7.0-windows\milyonerOdevBitti.pdb
+F:\Yeni klasör\milyonerOdevBitti\milyonerOdevBitti\obj\Debug\net7.0-windows\milyonerOdevBitti.dolanSure.resources
+F:\Yeni klasör\milyonerOdevBitti\milyonerOdevBitti\obj\Debug\net7.0-windows\milyonerOdevBitti.Form1.resources
+F:\Yeni klasör\milyonerOdevBitti\milyonerOdevBitti\obj\Debug\net7.0-windows\milyonerOdevBitti.Form2.resources
+F:\Yeni klasör\milyonerOdevBitti\milyonerOdevBitti\obj\Debug\net7.0-windows\milyonerOdevBitti.Form3.resources
+F:\Yeni klasör\milyonerOdevBitti\milyonerOdevBitti\obj\Debug\net7.0-windows\milyonerOdevBitti.kaybetti.resources
+F:\Yeni klasör\milyonerOdevBitti\milyonerOdevBitti\obj\Debug\net7.0-windows\milyonerOdevBitti.kazandın.resources
+F:\Yeni klasör\milyonerOdevBitti\milyonerOdevBitti\obj\Debug\net7.0-windows\milyonerOdevBitti.Properties.Resources.resources
+F:\Yeni klasör\milyonerOdevBitti\milyonerOdevBitti\obj\Debug\net7.0-windows\milyonerOdevBitti.Resource1.resources
+F:\Yeni klasör\milyonerOdevBitti\milyonerOdevBitti\obj\Debug\net7.0-windows\milyonerOdevBitti.telJoker.resources
+F:\Yeni klasör\milyonerOdevBitti\milyonerOdevBitti\obj\Debug\net7.0-windows\milyonerOdevBitti.csproj.GenerateResource.cache
+F:\Yeni klasör\milyonerOdevBitti\milyonerOdevBitti\obj\Debug\net7.0-windows\milyonerOdevBitti.GeneratedMSBuildEditorConfig.editorconfig
+F:\Yeni klasör\milyonerOdevBitti\milyonerOdevBitti\obj\Debug\net7.0-windows\milyonerOdevBitti.AssemblyInfoInputs.cache
+F:\Yeni klasör\milyonerOdevBitti\milyonerOdevBitti\obj\Debug\net7.0-windows\milyonerOdevBitti.AssemblyInfo.cs
+F:\Yeni klasör\milyonerOdevBitti\milyonerOdevBitti\obj\Debug\net7.0-windows\milyonerOdevBitti.csproj.CoreCompileInputs.cache
+F:\Yeni klasör\milyonerOdevBitti\milyonerOdevBitti\obj\Debug\net7.0-windows\milyonerOdevBitti.dll
+F:\Yeni klasör\milyonerOdevBitti\milyonerOdevBitti\obj\Debug\net7.0-windows\refint\milyonerOdevBitti.dll
+F:\Yeni klasör\milyonerOdevBitti\milyonerOdevBitti\obj\Debug\net7.0-windows\milyonerOdevBitti.pdb
+F:\Yeni klasör\milyonerOdevBitti\milyonerOdevBitti\obj\Debug\net7.0-windows\milyonerOdevBitti.genruntimeconfig.cache
+F:\Yeni klasör\milyonerOdevBitti\milyonerOdevBitti\obj\Debug\net7.0-windows\ref\milyonerOdevBitti.dll
